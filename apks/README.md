@@ -1,3 +1,3 @@
 ## VPN
 
-[Click here](https://github.com/Hunter-Chen/laowang-across-wall)
+[Click here](https://github.com/sharmajv/vpn)
